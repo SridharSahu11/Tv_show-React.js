@@ -1,0 +1,26 @@
+.container-fluid {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
+  .card {
+    width: 300px;
+    box-shadow: 0 0 15px 0 lightcoral;
+  }
+  .show-name {
+    text-align: center;
+    font-size: 25px;
+    font-family: fantasy;
+    color: orangered;
+  }
+  .card-body {
+    text-align: center;
+    color: black;
+  }
+  
+  .card-footer {
+    text-align: center;
+  }
+  

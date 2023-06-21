@@ -1,0 +1,22 @@
+/* .shows-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    padding: 20px;
+  }
+  
+  .show-card {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .summary-container {
+    padding: 20px;
+  } */
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
